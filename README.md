@@ -40,6 +40,7 @@ The frontend solution includes:
 The cloud solution includes:
 - AWS S3 Bucket
 - AWS EC2
+- AWS RDS
 
 ## Challenges we ran into
 
